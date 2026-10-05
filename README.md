@@ -1,4 +1,4 @@
-# Brew & Bean — Premium Café Website
+# Brew & Bean-Premium Café Website
 
 A complete, production-ready Next.js 15 website for **Brew & Bean**, a premium specialty coffee café in Vijayawada, India. Built with the App Router, TypeScript, Tailwind CSS, and Framer Motion.
 
